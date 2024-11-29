@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ResultPage from "./pages/ResultPage/ResultPage";
-import CalculatorPage from "./pages/CalculatorPage/CalculatorPage";
+import ResultPage from "./pages/ResultPage/result-page";
+import CalculatorPage from "./pages/CalculatorPage/calculator-page";
 
 function App() {
   return (

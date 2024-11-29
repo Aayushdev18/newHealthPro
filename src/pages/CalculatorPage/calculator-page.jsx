@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import Breadcrum from "../../components/breadcrum/Breadcrum";
 import Header from "../../components/header/Header";
-import "./CalculatorPage.css";
+import "./calculator-page.css";
 
 function CalculatorPage() {
   const navigate = useNavigate(); 

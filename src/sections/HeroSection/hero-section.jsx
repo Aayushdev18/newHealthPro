@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 import womenExpectingBaby from "../../assets/images/herosection/black-white-portrait-woman-expecting-baby (3) (1).png";
 import pointer from "../../assets/images/herosection/Group 1000002382.png";
 import Breadcrum from "../../components/breadcrum/Breadcrum";
-import CircularProgress from "../../components/CircularProgressbar/CircularProgressbar";
-import "./HeroSection.css";
+import CircularProgress from "../../components/CircularProgressbar/circular-bar";
+import "./hero-section.css";
 
 function HeroSection() {
   return (

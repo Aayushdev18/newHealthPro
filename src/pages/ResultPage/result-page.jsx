@@ -1,6 +1,6 @@
 import Header from "../../components/header/Header";
-import HeroSection from "../../sections/HeroSection/HeroSection";
-import "./ResultPage.css";
+import HeroSection from "../../sections/HeroSection/hero-section";
+import "./result-page.css";
 
 function ResultPage() {
   return (
